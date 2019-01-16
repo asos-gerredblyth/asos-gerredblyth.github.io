@@ -1,0 +1,2806 @@
+
+@font-face {
+  font-family: "FuturaPTBook-Reg";
+  src: url('../fonts/FTN45.otf') format("opentype");
+}
+@font-face {
+  font-family: "FuturaPTHeavy-Reg";
+  src: url('../fonts/FTN75.otf') format("opentype");
+}
+
+.colourapplicationofcolour {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 2955px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.colourapplicationofcolour .generalcolourusage {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1810px;
+  height              : 760px;
+  width               : 868px;
+  position            : absolute;
+  margin              : 0;
+  left                : 127px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .generalcolourusage .bgtablecopy4 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 150px;
+  height              : 608px;
+  width               : 426px;
+  position            : absolute;
+  margin              : 0;
+  left                : 445px;
+  border-radius       : 4px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(221, 221, 221, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .generalcolourusage .asoswhite {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 669px;
+  height              : 66px;
+  width               : 380px;
+  position            : absolute;
+  margin              : 0;
+  left                : 468px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .generalcolourusage .asoswhite .whitespaceincards {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 61px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colourapplicationofcolour .generalcolourusage .asoswhite .swatchcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .generalcolourusage .asosgrey20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 586px;
+  height              : 46px;
+  width               : 380px;
+  position            : absolute;
+  margin              : 0;
+  left                : 468px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .generalcolourusage .asosgrey20 .asosgrey20should {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 61px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colourapplicationofcolour .generalcolourusage .asosgrey20 .swatch {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .generalcolourusage .asosgrey20 .swatch .swatch1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 46px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .generalcolourusage .asosblack {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 479px;
+  height              : 66px;
+  width               : 380px;
+  position            : absolute;
+  margin              : 0;
+  left                : 468px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .generalcolourusage .asosblack .asosblackshouldbe {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 61px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colourapplicationofcolour .generalcolourusage .asosblack .example {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .generalcolourusage .asosblack .example .swatch {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 46px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .generalcolourusage .asosblack .example .swatch .swatch1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 46px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .generalcolourusage .asosgrey40 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 373px;
+  height              : 66px;
+  width               : 380px;
+  position            : absolute;
+  margin              : 0;
+  left                : 468px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .generalcolourusage .asosgrey40 .asosgrey70canbe {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 61px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colourapplicationofcolour .generalcolourusage .asosgrey40 .example {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .generalcolourusage .asosgrey40 .example .swatch {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 46px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .generalcolourusage .asosgrey40 .example .swatch .swatch1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 46px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .generalcolourusage .asosblue {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 267px;
+  height              : 66px;
+  width               : 380px;
+  position            : absolute;
+  margin              : 0;
+  left                : 468px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .generalcolourusage .asosblue .asosblueshouldals {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 61px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colourapplicationofcolour .generalcolourusage .asosblue .example {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .generalcolourusage .asosblue .example .swatch {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 46px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .generalcolourusage .asosblue .example .swatch .swatch1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 46px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .generalcolourusage .asosgreen {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 182px;
+  height              : 46px;
+  width               : 380px;
+  position            : absolute;
+  margin              : 0;
+  left                : 469px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .generalcolourusage .asosgreen .asosgreenshouldbe {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 60px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colourapplicationofcolour .generalcolourusage .asosgreen .example {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 44px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .generalcolourusage .asosgreen .example .swatch {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 44px;
+  width               : 44px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .generalcolourusage .asosgreen .example .swatch .swatch1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 44px;
+  width               : 44px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .generalcolourusage .percentageofuse {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 151px;
+  height              : 368px;
+  width               : 368px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .generalcolourusage .percentageofuse .percentageofuse1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 368px;
+  width               : 368px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .generalcolourusage .togiveanideaofh {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52px;
+  height              : auto;
+  width               : 601px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 24.0px;
+}
+.colourapplicationofcolour .generalcolourusage .generalcolourusage1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 588px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.5px;
+  line-height         : 44.0px;
+}
+.colourapplicationofcolour .messaging {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1054px;
+  height              : 676px;
+  width               : 954px;
+  position            : absolute;
+  margin              : 0;
+  left                : 132px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .messaging .system {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 580px;
+  height              : 96px;
+  width               : 660px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .messaging .system .systemmessagingis {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : auto;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 340px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colourapplicationofcolour .messaging .system .example {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 96px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .messaging .system .example .bgtablecopy4 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 94px;
+  width               : 298px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(221, 221, 221, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .messaging .system .example .asosblack {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 49px;
+  height              : auto;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colourapplicationofcolour .messaging .system .example .name {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 197px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.8px;
+  line-height         : 24.0px;
+}
+.colourapplicationofcolour .messaging .system .example .swatch {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 27px;
+  height              : 46px;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 23px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .messaging .system .example .swatch .swatch1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .messaging .system .example .swatch .alistasoscopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : 20px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .messaging .marketing {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 468px;
+  height              : 96px;
+  width               : 660px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .messaging .marketing .marketingpropositio {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : auto;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 340px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colourapplicationofcolour .messaging .marketing .example {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 96px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .messaging .marketing .example .bgtablecopy {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 94px;
+  width               : 298px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(221, 221, 221, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .messaging .marketing .example .asoslightblue {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 49px;
+  height              : auto;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colourapplicationofcolour .messaging .marketing .example .name {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 197px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.8px;
+  line-height         : 24.0px;
+}
+.colourapplicationofcolour .messaging .marketing .example .swatch {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 27px;
+  height              : 46px;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 23px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .messaging .marketing .example .swatch .swatch1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .messaging .marketing .example .swatch .alistasoscopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : 20px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .messaging .success {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 356px;
+  height              : 96px;
+  width               : 660px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .messaging .success .successmessagingis {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : auto;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 340px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colourapplicationofcolour .messaging .success .example {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 96px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .messaging .success .example .bgtablecopy3 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 94px;
+  width               : 298px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(221, 221, 221, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .messaging .success .example .asoslightgreen {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 49px;
+  height              : auto;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colourapplicationofcolour .messaging .success .example .name {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 197px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.8px;
+  line-height         : 24.0px;
+}
+.colourapplicationofcolour .messaging .success .example .swatch {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 27px;
+  height              : 46px;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 23px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .messaging .success .example .swatch .swatch1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .messaging .success .example .swatch .alistasoscopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : 20px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .messaging .general {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 244px;
+  height              : 96px;
+  width               : 660px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .messaging .general .generalmessagingis {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : auto;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 340px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colourapplicationofcolour .messaging .general .example {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 96px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .messaging .general .example .bgtablecopy2 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 94px;
+  width               : 298px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(221, 221, 221, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .messaging .general .example .asoslightamber {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 49px;
+  height              : auto;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colourapplicationofcolour .messaging .general .example .name {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 197px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.8px;
+  line-height         : 24.0px;
+}
+.colourapplicationofcolour .messaging .general .example .swatch {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 23px;
+  height              : 46px;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 23px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .messaging .general .example .swatch .swatch1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .messaging .general .example .swatch .alistasoscopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : 20px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .messaging .significanterror {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 132px;
+  height              : 96px;
+  width               : 660px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .messaging .significanterror .significanterrorsa {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : auto;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 340px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colourapplicationofcolour .messaging .significanterror .example {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 96px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .messaging .significanterror .example .bgtable {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 94px;
+  width               : 298px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(221, 221, 221, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .messaging .significanterror .example .asoslightred {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 49px;
+  height              : auto;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colourapplicationofcolour .messaging .significanterror .example .significanterror1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 197px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.8px;
+  line-height         : 24.0px;
+}
+.colourapplicationofcolour .messaging .significanterror .example .swatch {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 27px;
+  height              : 46px;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 23px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .messaging .significanterror .example .swatch .swatch1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .messaging .significanterror .example .swatch .textcolour {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : 20px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .messaging .thekeymessagingco {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 44px;
+  height              : auto;
+  width               : 955px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 24.0px;
+}
+.colourapplicationofcolour .messaging .messaging1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 587px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 28.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.2px;
+  line-height         : 36.0px;
+}
+.colourapplicationofcolour .buttons {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 378px;
+  height              : 596px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 512px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .buttons .tertiary {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 500px;
+  height              : 96px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .buttons .tertiary .example {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 96px;
+  width               : 300px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .buttons .tertiary .example .bgtablecopy4 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 94px;
+  width               : 298px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(221, 221, 221, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .buttons .tertiary .example .asosgrey20fill {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 49px;
+  height              : auto;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colourapplicationofcolour .buttons .tertiary .example .tertiary1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 197px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.8px;
+  line-height         : 24.0px;
+}
+.colourapplicationofcolour .buttons .tertiary .example .swatch {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : 44px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .buttons .tertiary .example .swatch .swatch1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 44px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .buttons .tertiary .example .swatch .alistasoscopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 20px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .buttons .secondary {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 388px;
+  height              : 96px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .buttons .secondary .example {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 96px;
+  width               : 300px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .buttons .secondary .example .bgtablecopy {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 94px;
+  width               : 298px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(221, 221, 221, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .buttons .secondary .example .asosgrey402pxout {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 49px;
+  height              : auto;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colourapplicationofcolour .buttons .secondary .example .secondary1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 197px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.8px;
+  line-height         : 24.0px;
+}
+.colourapplicationofcolour .buttons .secondary .example .swatch {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : 48px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .buttons .secondary .example .swatch .swatch1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .buttons .secondary .example .swatch .alistasoscopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 20px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .buttons .primary {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 276px;
+  height              : 96px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .buttons .primary .example {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 96px;
+  width               : 300px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .buttons .primary .example .bgtablecopy3 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 94px;
+  width               : 298px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(221, 221, 221, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .buttons .primary .example .asosblackfill {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 49px;
+  height              : auto;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colourapplicationofcolour .buttons .primary .example .primary1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 197px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.8px;
+  line-height         : 24.0px;
+}
+.colourapplicationofcolour .buttons .primary .example .swatch {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : 44px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .buttons .primary .example .swatch .swatch1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 44px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .buttons .primary .example .swatch .alistasoscopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 20px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .buttons .secondarypurchase {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 164px;
+  height              : 96px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .buttons .secondarypurchase .example {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 96px;
+  width               : 300px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .buttons .secondarypurchase .example .bgtablecopy2 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 94px;
+  width               : 298px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(221, 221, 221, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .buttons .secondarypurchase .example .asosgreen2pxoutli {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 49px;
+  height              : auto;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colourapplicationofcolour .buttons .secondarypurchase .example .secondarypurchase1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 197px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.8px;
+  line-height         : 24.0px;
+}
+.colourapplicationofcolour .buttons .secondarypurchase .example .swatch {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 22px;
+  height              : 48px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .buttons .secondarypurchase .example .swatch .swatch1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .buttons .secondarypurchase .example .swatch .alistasoscopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 20px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .buttons .primarypurchase {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52px;
+  height              : 96px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .buttons .primarypurchase .example {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 96px;
+  width               : 300px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .buttons .primarypurchase .example .bgtable {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 94px;
+  width               : 298px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(221, 221, 221, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .buttons .primarypurchase .example .asosgreenfill {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 49px;
+  height              : auto;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colourapplicationofcolour .buttons .primarypurchase .example .primarypurchase1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 197px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.8px;
+  line-height         : 24.0px;
+}
+.colourapplicationofcolour .buttons .primarypurchase .example .swatch {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 27px;
+  height              : 46px;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 23px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .buttons .primarypurchase .example .swatch .swatch1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .buttons .primarypurchase .example .swatch .textcolour {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : 20px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .buttons .buttons1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 301px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 28.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.2px;
+  line-height         : 36.0px;
+}
+.colourapplicationofcolour .iconselements {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 378px;
+  height              : 484px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 892px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .iconselements .inactivedisabled {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 388px;
+  height              : 96px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .iconselements .inactivedisabled .example {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 96px;
+  width               : 300px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .iconselements .inactivedisabled .example .bgtablecopy {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 94px;
+  width               : 298px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(221, 221, 221, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .iconselements .inactivedisabled .example .asosgrey40 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 49px;
+  height              : auto;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colourapplicationofcolour .iconselements .inactivedisabled .example .inactivedisabled1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 197px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.8px;
+  line-height         : 24.0px;
+}
+.colourapplicationofcolour .iconselements .inactivedisabled .example .swatch {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : 44px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .iconselements .inactivedisabled .example .swatch .swatch1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 44px;
+  width               : 44px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .iconselements .activeselected {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 276px;
+  height              : 96px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .iconselements .activeselected .example {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 96px;
+  width               : 300px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .iconselements .activeselected .example .bgtablecopy3 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 94px;
+  width               : 298px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(221, 221, 221, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .iconselements .activeselected .example .asosblue {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 49px;
+  height              : auto;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colourapplicationofcolour .iconselements .activeselected .example .activeselected1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 197px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.8px;
+  line-height         : 24.0px;
+}
+.colourapplicationofcolour .iconselements .activeselected .example .swatch {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : 44px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .iconselements .activeselected .example .swatch .swatch1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 44px;
+  width               : 44px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .iconselements .secondarydefault {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 164px;
+  height              : 96px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .iconselements .secondarydefault .example {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 96px;
+  width               : 300px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .iconselements .secondarydefault .example .bgtablecopy2 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 94px;
+  width               : 298px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(221, 221, 221, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .iconselements .secondarydefault .example .asosgreen2pxoutli {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 49px;
+  height              : auto;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colourapplicationofcolour .iconselements .secondarydefault .example .secondarydefault1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 197px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.8px;
+  line-height         : 24.0px;
+}
+.colourapplicationofcolour .iconselements .secondarydefault .example .swatch {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : 44px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .iconselements .secondarydefault .example .swatch .swatch1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 44px;
+  width               : 44px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .iconselements .default {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52px;
+  height              : 96px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .iconselements .default .example {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 96px;
+  width               : 300px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .iconselements .default .example .bgtable {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 94px;
+  width               : 298px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(221, 221, 221, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .iconselements .default .example .asosblack {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 49px;
+  height              : auto;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colourapplicationofcolour .iconselements .default .example .default1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 197px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.8px;
+  line-height         : 24.0px;
+}
+.colourapplicationofcolour .iconselements .default .example .swatch {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 27px;
+  height              : 46px;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 23px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .iconselements .default .example .swatch .swatch1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 46px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .iconselements .iconselements1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 301px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 28.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.2px;
+  line-height         : 36.0px;
+}
+.colourapplicationofcolour .text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 378px;
+  height              : 484px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 132px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .text .delivery {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 388px;
+  height              : 96px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .text .delivery .example {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 96px;
+  width               : 300px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .text .delivery .example .bgtablecopy2 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 94px;
+  width               : 298px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(221, 221, 221, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .text .delivery .example .asosdarkgreen {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 49px;
+  height              : auto;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colourapplicationofcolour .text .delivery .example .delivery1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 197px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.8px;
+  line-height         : 24.0px;
+}
+.colourapplicationofcolour .text .delivery .example .swatch {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 22px;
+  height              : 48px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .text .delivery .example .swatch .swatch1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .text .delivery .example .swatch .alistasoscopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 20px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .text .sale {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 276px;
+  height              : 96px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .text .sale .example {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 96px;
+  width               : 300px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .text .sale .example .bgtable {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 94px;
+  width               : 298px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(221, 221, 221, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .text .sale .example .asosred {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 49px;
+  height              : auto;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colourapplicationofcolour .text .sale .example .sale1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 197px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.8px;
+  line-height         : 24.0px;
+}
+.colourapplicationofcolour .text .sale .example .swatch {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : 48px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .text .sale .example .swatch .swatch1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .text .sale .example .swatch .textcolour {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 20px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .text .grey {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 164px;
+  height              : 96px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .text .grey .example {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 96px;
+  width               : 300px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .text .grey .example .bgtablecopy3 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 94px;
+  width               : 298px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(221, 221, 221, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .text .grey .example .asosgrey70 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 49px;
+  height              : auto;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colourapplicationofcolour .text .grey .example .secondarydefault {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 197px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.8px;
+  line-height         : 24.0px;
+}
+.colourapplicationofcolour .text .grey .example .swatch {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : 48px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .text .grey .example .swatch .swatch1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .text .grey .example .swatch .alistasoscopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 20px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .text .default {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52px;
+  height              : 96px;
+  width               : 300px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .text .default .example {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 96px;
+  width               : 300px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .text .default .example .bgtablecopy3 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 94px;
+  width               : 298px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(221, 221, 221, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .text .default .example .asosblack {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 49px;
+  height              : auto;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colourapplicationofcolour .text .default .example .default1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 197px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.8px;
+  line-height         : 24.0px;
+}
+.colourapplicationofcolour .text .default .example .swatch {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : 48px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .text .default .example .swatch .swatch1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .text .default .example .swatch .alistasoscopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 20px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colourapplicationofcolour .text .text1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 301px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 28.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.2px;
+  line-height         : 36.0px;
+}
+.colourapplicationofcolour .thesearethebasic {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 260px;
+  height              : auto;
+  width               : 955px;
+  position            : absolute;
+  margin              : 0;
+  left                : 132px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 24.0px;
+}
+.colourapplicationofcolour .basiccolouruse {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 208px;
+  height              : auto;
+  width               : 588px;
+  position            : absolute;
+  margin              : 0;
+  left                : 132px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.5px;
+  line-height         : 44.0px;
+}
+.colourapplicationofcolour .applicationofcolou {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 80px;
+  height              : auto;
+  width               : 642px;
+  position            : absolute;
+  margin              : 0;
+  left                : 132px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 60.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.5px;
+  line-height         : 72.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

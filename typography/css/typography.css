@@ -1,0 +1,1669 @@
+
+@font-face {
+  font-family: "FuturaPTExtraBold-Obl";
+  src: url('../fonts/FTN96.otf') format("opentype");
+}
+@font-face {
+  font-family: "FuturaPTHeavy-Reg";
+  src: url('../fonts/FTN75.otf') format("opentype");
+}
+@font-face {
+  font-family: "FuturaPTBook-Reg";
+  src: url('../fonts/FTN45.otf') format("opentype");
+}
+
+.typography {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 3638px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.typography .creativestyles {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2239px;
+  height              : 746px;
+  width               : 901px;
+  position            : absolute;
+  margin              : 0;
+  left                : 131px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .creativestyles .type {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 98px;
+  height              : 648px;
+  width               : 900px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  border-radius       : 4px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .creativestyles .type .bgtable {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 646px;
+  width               : 898px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(221, 221, 221, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .creativestyles .type .creative4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 528px;
+  height              : 77px;
+  width               : 1200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .creativestyles .type .creative4 .abcdefghijklmnopqrst {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : auto;
+  width               : 1201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTExtraBold-Obl", Helvetica, Arial, serif;
+  font-size           : 26.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 26.0px;
+}
+.typography .creativestyles .type .creative4 .creative42626 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 811px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(119, 119, 119, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 16.0px;
+}
+.typography .creativestyles .type .creative3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 392px;
+  height              : 92px;
+  width               : 1200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .creativestyles .type .creative3 .abcdefghijklmnopqrst {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : auto;
+  width               : 1202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTExtraBold-Obl", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.5px;
+  line-height         : 32.0px;
+}
+.typography .creativestyles .type .creative3 .creative33232 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 821px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(119, 119, 119, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 16.0px;
+}
+.typography .creativestyles .type .creative2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 224px;
+  height              : 124px;
+  width               : 1200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .creativestyles .type .creative2 .abcdefghijklmnopqrst {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : auto;
+  width               : 1202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTExtraBold-Obl", Helvetica, Arial, serif;
+  font-size           : 48.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.5px;
+  line-height         : 48.0px;
+}
+.typography .creativestyles .type .creative2 .creative24848 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 834px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(119, 119, 119, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 16.0px;
+}
+.typography .creativestyles .type .creative1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : 148px;
+  width               : 1200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .creativestyles .type .creative1 .abcdefghijklmnopqrst {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : auto;
+  width               : 1202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTExtraBold-Obl", Helvetica, Arial, serif;
+  font-size           : 60.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 2.0px;
+  line-height         : 60.0px;
+}
+.typography .creativestyles .type .creative1 .creative16060 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 777px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(119, 119, 119, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 16.0px;
+}
+.typography .creativestyles .futuraextraboldob {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52px;
+  height              : auto;
+  width               : 587px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 24.0px;
+}
+.typography .creativestyles .creativestyles1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 587px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.2px;
+  line-height         : 44.0px;
+}
+.typography .bookstyles {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1651px;
+  height              : 508px;
+  width               : 1224px;
+  position            : absolute;
+  margin              : 0;
+  left                : 132px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .bookstyles .type {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 98px;
+  height              : 410px;
+  width               : 1224px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .bookstyles .type .bgtable {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 408px;
+  width               : 898px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(221, 221, 221, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .bookstyles .type .hemel4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 326px;
+  height              : 56px;
+  width               : 1200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .bookstyles .type .hemel4 .abcdefghijklmnopqrst {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 1201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.8px;
+  line-height         : 16.0px;
+}
+.typography .bookstyles .type .hemel4 .leavesden4book1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 523px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(119, 119, 119, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 16.0px;
+}
+.typography .bookstyles .type .hemel3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 232px;
+  height              : 64px;
+  width               : 1200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .bookstyles .type .hemel3 .abcdefghijklmnopqrst {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 1201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 20.0px;
+}
+.typography .bookstyles .type .hemel3 .leavesden3book1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 523px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(119, 119, 119, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 16.0px;
+}
+.typography .bookstyles .type .hemel2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 134px;
+  height              : 67px;
+  width               : 1200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .bookstyles .type .hemel2 .abcdefghijklmnopqrst {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 23px;
+  height              : auto;
+  width               : 1200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.typography .bookstyles .type .hemel2 .leavesden2book1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 523px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(119, 119, 119, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 16.0px;
+}
+.typography .bookstyles .type .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 129px;
+  height              : 66px;
+  width               : 5px;
+  position            : absolute;
+  margin              : 0;
+  left                : 511px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .bookstyles .type .paragraphtext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 150px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 531px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(188, 15, 224, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 24.0px;
+}
+.typography .bookstyles .type .hemel1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : 72px;
+  width               : 1200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .bookstyles .type .hemel1 .abcdefghijklmnopqrst {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 1201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 24.0px;
+}
+.typography .bookstyles .type .hemel1 .leavesden1book1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 523px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(119, 119, 119, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 16.0px;
+}
+.typography .bookstyles .bookstyles1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 587px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.2px;
+  line-height         : 44.0px;
+}
+.typography .bookstyles .bookstylesareonly {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52px;
+  height              : auto;
+  width               : 587px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 24.0px;
+}
+.typography .heavystyles {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 208px;
+  height              : 1363px;
+  width               : 900px;
+  position            : absolute;
+  margin              : 0;
+  left                : 132px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .heavystyles .type {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 98px;
+  height              : 1265px;
+  width               : 900px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .heavystyles .type .bgtable {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 1263px;
+  width               : 898px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(221, 221, 221, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .heavystyles .type .londonstyles {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 796px;
+  height              : 437px;
+  width               : 1200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .heavystyles .type .londonstyles .london5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 384px;
+  height              : 53px;
+  width               : 1200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .heavystyles .type .londonstyles .london5 .abcdefghijklmnopqrst {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : auto;
+  width               : 1201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 10.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.2px;
+  line-height         : 14.0px;
+}
+.typography .heavystyles .type .londonstyles .london5 .london5heavy10p {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 523px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(118, 118, 118, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 16.0px;
+}
+.typography .heavystyles .type .londonstyles .london4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 296px;
+  height              : 56px;
+  width               : 1200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .heavystyles .type .londonstyles .london4 .abcdefghijklmnopqrst {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 1201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 16.0px;
+}
+.typography .heavystyles .type .londonstyles .london4 .london4heavy12p {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 523px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(118, 118, 118, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 16.0px;
+}
+.typography .heavystyles .type .londonstyles .london3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 202px;
+  height              : 64px;
+  width               : 1200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .heavystyles .type .londonstyles .london3 .abcdefghijklmnopqrst {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 1201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.8px;
+  line-height         : 20.0px;
+}
+.typography .heavystyles .type .londonstyles .london3 .london3heavy14p {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 590px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(118, 118, 118, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 16.0px;
+}
+.typography .heavystyles .type .londonstyles .london2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 104px;
+  height              : 68px;
+  width               : 1200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .heavystyles .type .londonstyles .london2 .abcdefghijklmnopqrst {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 1201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 22.0px;
+}
+.typography .heavystyles .type .londonstyles .london2 .london2heavy16p {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 609px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(118, 118, 118, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 16.0px;
+}
+.typography .heavystyles .type .londonstyles .london1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 1200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .heavystyles .type .londonstyles .london1 .abcdefghijklmnopqrst {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 1201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.8px;
+  line-height         : 24.0px;
+}
+.typography .heavystyles .type .londonstyles .london1 .london1heavy18p {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 523px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(118, 118, 118, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 16.0px;
+}
+.typography .heavystyles .type .barnsleystyles {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : 732px;
+  width               : 1200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .heavystyles .type .barnsleystyles .barnsley5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 648px;
+  height              : 84px;
+  width               : 1200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .heavystyles .type .barnsleystyles .barnsley5 .abcdefghijklmnopqrst {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 1201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.2px;
+  line-height         : 30.0px;
+}
+.typography .heavystyles .type .barnsleystyles .barnsley5 .barnsley5heavy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 523px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(118, 118, 118, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 16.0px;
+}
+.typography .heavystyles .type .barnsleystyles .barnsley4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 520px;
+  height              : 96px;
+  width               : 1200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .heavystyles .type .barnsleystyles .barnsley4 .abcdefghijklmnopqrst {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 1201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 28.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.2px;
+  line-height         : 36.0px;
+}
+.typography .heavystyles .type .barnsleystyles .barnsley4 .barnsley4heavy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 523px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(118, 118, 118, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 16.0px;
+}
+.typography .heavystyles .type .barnsleystyles .barnsley3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 376px;
+  height              : 112px;
+  width               : 1200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .heavystyles .type .barnsleystyles .barnsley3 .abcdefghijklmnopqrst {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 1201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.2px;
+  line-height         : 44.0px;
+}
+.typography .heavystyles .type .barnsleystyles .barnsley3 .barnsley3heavy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 523px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(118, 118, 118, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 16.0px;
+}
+.typography .heavystyles .type .barnsleystyles .barnsley2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 200px;
+  height              : 138px;
+  width               : 1200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .heavystyles .type .barnsleystyles .barnsley2 .abcdefghijklmnopqrst {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : auto;
+  width               : 1201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 48.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.2px;
+  line-height         : 56.0px;
+}
+.typography .heavystyles .type .barnsleystyles .barnsley2 .barnsley2heavy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 523px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(118, 118, 118, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 16.0px;
+}
+.typography .heavystyles .type .barnsleystyles .barnsley1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 168px;
+  width               : 1200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .heavystyles .type .barnsleystyles .barnsley1 .abcdefghijklmnopqrst {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 1202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 60.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.5px;
+  line-height         : 72.0px;
+}
+.typography .heavystyles .type .barnsleystyles .barnsley1 .barnsley1heavy6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 523px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(118, 118, 118, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.0px;
+  line-height         : 16.0px;
+}
+.typography .heavystyles .markup {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 996px;
+  height              : 356px;
+  width               : 269px;
+  position            : absolute;
+  margin              : 0;
+  left                : 618px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .heavystyles .markup .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 244px;
+  width               : 5px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .heavystyles .markup .buttontabtextno {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 87px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(188, 15, 224, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 24.0px;
+}
+.typography .heavystyles .markup .linecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 264px;
+  height              : 93px;
+  width               : 5px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .heavystyles .markup .notethatlondon5h {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 262px;
+  height              : auto;
+  width               : 254px;
+  position            : absolute;
+  margin              : 0;
+  left                : 17px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(188, 15, 224, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 24.0px;
+}
+.typography .heavystyles .heavystyles1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 587px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.2px;
+  line-height         : 44.0px;
+}
+.typography .heavystyles .futuraheavycanbe {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52px;
+  height              : auto;
+  width               : 587px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 24.0px;
+}
+.typography .iosnote {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 563px;
+  height              : 155px;
+  width               : 283px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1068px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .iosnote .rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 153px;
+  width               : 281px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(221, 221, 221, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .iosnote .pleasenotethaton {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 65px;
+  height              : auto;
+  width               : 235px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.typography .iosnote .ptonios {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 27px;
+  height              : auto;
+  width               : 168px;
+  position            : absolute;
+  margin              : 0;
+  left                : 64px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.8px;
+  line-height         : 24.0px;
+}
+.typography .iosnote .appleicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 22px;
+  height              : 28px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .androidnote {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 306px;
+  height              : 221px;
+  width               : 283px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1068px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .androidnote .rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 219px;
+  width               : 281px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(221, 221, 221, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .androidnote .evo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : 29px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .androidnote .evo .fill1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 14px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .androidnote .evo .fill2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 6px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .androidnote .evo .fill3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 11px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .androidnote .evo .fill4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 11px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .androidnote .evo .fill5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 7px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .androidnote .evo .fill6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 2px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .androidnote .evo .fill7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 2px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .androidnote .evo .fill8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 2px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .androidnote .evo .group13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 29px;
+  width               : 10px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .androidnote .evo .group13 .group131 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 29px;
+  width               : 10px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .androidnote .scaleindependentpi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 65px;
+  height              : auto;
+  width               : 235px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.typography .androidnote .sponandroid {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 27px;
+  height              : auto;
+  width               : 168px;
+  position            : absolute;
+  margin              : 0;
+  left                : 64px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.8px;
+  line-height         : 24.0px;
+}
+.typography .typography1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 80px;
+  height              : auto;
+  width               : 588px;
+  position            : absolute;
+  margin              : 0;
+  left                : 132px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 60.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.5px;
+  line-height         : 72.0px;
+}
+.typography .newbadge {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 535px;
+  height              : 24px;
+  width               : 55px;
+  position            : absolute;
+  margin              : 0;
+  left                : 93px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .newbadge .rectangle5 {
+  background-color    : rgba(7, 112, 207, 1.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 55px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 12px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.typography .newbadge .new {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : auto;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 1.0px;
+  line-height         : 16.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

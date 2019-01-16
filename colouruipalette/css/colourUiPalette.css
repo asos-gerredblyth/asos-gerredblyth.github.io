@@ -1,0 +1,3148 @@
+
+@font-face {
+  font-family: "FuturaPTHeavy-Reg";
+  src: url('../fonts/FTN75.otf') format("opentype");
+}
+@font-face {
+  font-family: "FuturaPTBook-Reg";
+  src: url('../fonts/FTN45.otf') format("opentype");
+}
+
+.colouruipalette {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 2955px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.colouruipalette .red {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2437px;
+  height              : 261px;
+  width               : 793px;
+  position            : absolute;
+  margin              : 0;
+  left                : 132px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .red .asoslegacyred {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 241px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 544px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .red .asoslegacyred .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 130px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .red .asoslegacyred .asosbrightred {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 96px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 22.0px;
+}
+.colouruipalette .red .asoslegacyred .ff3b30 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .red .asoslegacyred .r255g59b48 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 178px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .red .asoslegacyred .line1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 169px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .red .asoslegacyred .linecopy20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 207px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .red .asoslegacyred .colour1 {
+  background-color    : rgba(255, 59, 48, 1.0);
+  top                 : 0px;
+  height              : 84px;
+  width               : 248px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .red .asoslegacyred .usedforactionable {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 220px;
+  height              : auto;
+  width               : 246px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(119, 119, 119, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 20.0px;
+}
+.colouruipalette .red .asoslightred {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 261px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 272px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .red .asoslightred .usedasthebackgrou {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 220px;
+  height              : auto;
+  width               : 246px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(119, 119, 119, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 20.0px;
+}
+.colouruipalette .red .asoslightred .linecopy19 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 207px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .red .asoslightred .r250g231b236 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 178px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .red .asoslightred .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 169px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .red .asoslightred .fae7ec {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .red .asoslightred .line1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 130px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .red .asoslightred .asoslightred1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 96px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 22.0px;
+}
+.colouruipalette .red .asoslightred .colour1 {
+  background-color    : rgba(250, 231, 236, 1.0);
+  top                 : 0px;
+  height              : 84px;
+  width               : 248px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .red .asosred {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 261px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .red .asosred .usedfordisplaying {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 220px;
+  height              : auto;
+  width               : 246px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(119, 119, 119, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 20.0px;
+}
+.colouruipalette .red .asosred .linecopy18 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 207px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .red .asosred .r208g19b69 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 178px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .red .asosred .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 169px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .red .asosred .d01345 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .red .asosred .line1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 130px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .red .asosred .asosred1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 96px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 22.0px;
+}
+.colouruipalette .red .asosred .colour1 {
+  background-color    : rgba(208, 19, 69, 1.0);
+  top                 : 0px;
+  height              : 84px;
+  width               : 248px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .blue {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2084px;
+  height              : 273px;
+  width               : 793px;
+  position            : absolute;
+  margin              : 0;
+  left                : 132px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .blue .asoslightblue {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 261px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 544px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .blue .asoslightblue .usedasthebackgrou {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 220px;
+  height              : auto;
+  width               : 246px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(119, 119, 119, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 20.0px;
+}
+.colouruipalette .blue .asoslightblue .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 130px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .blue .asoslightblue .r205g226b245 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 178px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .blue .asoslightblue .linecopy17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 207px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .blue .asoslightblue .cde2f5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .blue .asoslightblue .line1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 169px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .blue .asoslightblue .asoslightblue1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 96px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 22.0px;
+}
+.colouruipalette .blue .asoslightblue .colour1 {
+  background-color    : rgba(205, 226, 245, 1.0);
+  top                 : 0px;
+  height              : 84px;
+  width               : 248px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .blue .asosblue {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 241px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .blue .asosblue .usedforselectedan {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 220px;
+  height              : auto;
+  width               : 246px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(119, 119, 119, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 20.0px;
+}
+.colouruipalette .blue .asosblue .linecopy16 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 207px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .blue .asosblue .r7g112b207 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 178px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .blue .asosblue .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 169px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .blue .asosblue .a0770cf {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .blue .asosblue .line1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 130px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .blue .asosblue .asosblue1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 96px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 22.0px;
+}
+.colouruipalette .blue .asosblue .colour1 {
+  background-color    : rgba(7, 112, 207, 1.0);
+  top                 : 0px;
+  height              : 84px;
+  width               : 248px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .blue .asosbluecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 273px;
+  width               : 257px;
+  position            : absolute;
+  margin              : 0;
+  left                : 264px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .blue .asosbluecopy .usedforselectedan {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 232px;
+  height              : auto;
+  width               : 246px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(119, 119, 119, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 20.0px;
+}
+.colouruipalette .blue .asosbluecopy .linecopy16 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 219px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .blue .asosbluecopy .r24g98b165 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 190px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .blue .asosbluecopy .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 181px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .blue .asosbluecopy .a1862a5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 151px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .blue .asosbluecopy .line1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 142px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .blue .asosbluecopy .asosdarkblue {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 108px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 22.0px;
+}
+.colouruipalette .blue .asosbluecopy .colour1 {
+  background-color    : rgba(24, 98, 165, 1.0);
+  top                 : 12px;
+  height              : 84px;
+  width               : 248px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .blue .asosbluecopy .updatedbadge {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 58px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .blue .asosbluecopy .updatedbadge .rectangle5 {
+  background-color    : rgba(7, 112, 207, 1.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 57px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 12px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .blue .asosbluecopy .updatedbadge .new {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : auto;
+  width               : 35px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 1.0px;
+  line-height         : 16.0px;
+}
+.colouruipalette .amber {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1755px;
+  height              : 261px;
+  width               : 521px;
+  position            : absolute;
+  margin              : 0;
+  left                : 132px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .amber .asoslightamber {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 261px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 272px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .amber .asoslightamber .usedasthebackgrou {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 220px;
+  height              : auto;
+  width               : 246px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(119, 119, 119, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 20.0px;
+}
+.colouruipalette .amber .asoslightamber .linecopy15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 207px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .amber .asoslightamber .r255g234b204 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 178px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .amber .asoslightamber .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 169px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .amber .asoslightamber .ffebcc {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .amber .asoslightamber .line1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 130px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .amber .asoslightamber .asoslightamber1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 96px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 22.0px;
+}
+.colouruipalette .amber .asoslightamber .colour1 {
+  background-color    : rgba(255, 235, 204, 1.0);
+  top                 : 0px;
+  height              : 84px;
+  width               : 248px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .amber .asosamber {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 241px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .amber .asosamber .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 130px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .amber .asosamber .asosamber1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 96px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 22.0px;
+}
+.colouruipalette .amber .asosamber .ff9c32 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .amber .asosamber .r255g156b50 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 178px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .amber .asosamber .line1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 169px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .amber .asosamber .linecopy14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 207px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .amber .asosamber .colour1 {
+  background-color    : rgba(255, 156, 50, 1.0);
+  top                 : 0px;
+  height              : 84px;
+  width               : 248px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .amber .asosamber .usedforlowinstoc {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 220px;
+  height              : auto;
+  width               : 246px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(119, 119, 119, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 20.0px;
+}
+.colouruipalette .green {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1393px;
+  height              : 282px;
+  width               : 793px;
+  position            : absolute;
+  margin              : 0;
+  left                : 132px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .green .asoslightgreen {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 261px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 544px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .green .asoslightgreen .linecopy13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 207px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .green .asoslightgreen .r204g238b222 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 178px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .green .asoslightgreen .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 169px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .green .asoslightgreen .cceede {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .green .asoslightgreen .line1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 130px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .green .asoslightgreen .asoslightgreen1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 96px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 22.0px;
+}
+.colouruipalette .green .asoslightgreen .colour1 {
+  background-color    : rgba(204, 238, 222, 1.0);
+  top                 : 0px;
+  height              : 84px;
+  width               : 248px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .green .asoslightgreen .usedasthebackgrou {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 220px;
+  height              : auto;
+  width               : 246px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(119, 119, 119, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 20.0px;
+}
+.colouruipalette .green .asosdarkgreen {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 241px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 272px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .green .asosdarkgreen .linecopy12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 207px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .green .asosdarkgreen .r0g170b91 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 178px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .green .asosdarkgreen .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 169px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .green .asosdarkgreen .a006e3b {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .green .asosdarkgreen .line1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 130px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .green .asosdarkgreen .asosdarkgreen1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 96px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 22.0px;
+}
+.colouruipalette .green .asosdarkgreen .colour1 {
+  background-color    : rgba(0, 110, 59, 1.0);
+  top                 : 0px;
+  height              : 84px;
+  width               : 248px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .green .asosdarkgreen .usedfordeliveryin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 220px;
+  height              : auto;
+  width               : 246px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(119, 119, 119, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 20.0px;
+}
+.colouruipalette .green .asosgreen {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 282px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .green .asosgreen .usedforpositivefe {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 220px;
+  height              : auto;
+  width               : 246px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(119, 119, 119, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 20.0px;
+}
+.colouruipalette .green .asosgreen .linecopy11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 207px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .green .asosgreen .r0g170b91 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 178px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .green .asosgreen .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 169px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .green .asosgreen .a00aa5b {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .green .asosgreen .line1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 130px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .green .asosgreen .asosgreen1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 96px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 22.0px;
+}
+.colouruipalette .green .asosgreen .colour1 {
+  background-color    : rgba(0, 170, 91, 1.0);
+  top                 : 0px;
+  height              : 84px;
+  width               : 248px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .lightgreyswhite {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1052px;
+  height              : 261px;
+  width               : 793px;
+  position            : absolute;
+  margin              : 0;
+  left                : 132px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .lightgreyswhite .asoswhite {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 241px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 544px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .lightgreyswhite .asoswhite .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 130px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .lightgreyswhite .asoswhite .asoswhite1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 96px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 22.0px;
+}
+.colouruipalette .lightgreyswhite .asoswhite .ffffff {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .lightgreyswhite .asoswhite .r255g255b255 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 178px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .lightgreyswhite .asoswhite .line1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 169px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .lightgreyswhite .asoswhite .linecopy10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 207px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .lightgreyswhite .asoswhite .colour1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 84px;
+  width               : 248px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .lightgreyswhite .asoswhite .usedasaprimaryba {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 220px;
+  height              : auto;
+  width               : 246px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(119, 119, 119, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 20.0px;
+}
+.colouruipalette .lightgreyswhite .asosgrey10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 261px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 272px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .lightgreyswhite .asosgrey10 .usedasaactivedse {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 220px;
+  height              : auto;
+  width               : 246px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(119, 119, 119, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 20.0px;
+}
+.colouruipalette .lightgreyswhite .asosgrey10 .linecopy9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 207px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .lightgreyswhite .asosgrey10 .f8f8f8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .lightgreyswhite .asosgrey10 .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 169px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .lightgreyswhite .asosgrey10 .r248g248b248 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 178px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .lightgreyswhite .asosgrey10 .line1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 130px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .lightgreyswhite .asosgrey10 .asosgrey101 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 96px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 22.0px;
+}
+.colouruipalette .lightgreyswhite .asosgrey10 .colour1 {
+  background-color    : rgba(248, 248, 248, 1.0);
+  top                 : 0px;
+  height              : 84px;
+  width               : 248px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .lightgreyswhite .asosgrey20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 261px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .lightgreyswhite .asosgrey20 .linecopy8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 207px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .lightgreyswhite .asosgrey20 .r238g238b238 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 178px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .lightgreyswhite .asosgrey20 .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 169px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .lightgreyswhite .asosgrey20 .eeeeee {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.25px;
+  line-height         : 17.0px;
+}
+.colouruipalette .lightgreyswhite .asosgrey20 .line1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 130px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .lightgreyswhite .asosgrey20 .asosgrey201 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 96px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 22.0px;
+}
+.colouruipalette .lightgreyswhite .asosgrey20 .colour1 {
+  background-color    : rgba(238, 238, 238, 1.0);
+  top                 : 0px;
+  height              : 84px;
+  width               : 248px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .lightgreyswhite .asosgrey20 .usedasasecondary {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 220px;
+  height              : auto;
+  width               : 246px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(119, 119, 119, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 20.0px;
+}
+.colouruipalette .midgreys {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 704px;
+  height              : 268px;
+  width               : 1065px;
+  position            : absolute;
+  margin              : 0;
+  left                : 132px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .midgreys .asosgrey40 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 261px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 816px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .midgreys .asosgrey40 .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 130px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .midgreys .asosgrey40 .asosgrey401 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 96px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 22.0px;
+}
+.colouruipalette .midgreys .asosgrey40 .dddddd {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .midgreys .asosgrey40 .rgb221221221 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 178px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .midgreys .asosgrey40 .line1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 169px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .midgreys .asosgrey40 .linecopy7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 207px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .midgreys .asosgrey40 .colour1 {
+  background-color    : rgba(221, 221, 221, 1.0);
+  top                 : 0px;
+  height              : 84px;
+  width               : 248px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .midgreys .asosgrey40 .usedforsecondaryt {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 220px;
+  height              : auto;
+  width               : 246px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(119, 119, 119, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 20.0px;
+}
+.colouruipalette .midgreys .asosgrey50 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 261px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 544px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.27;
+}
+.colouruipalette .midgreys .asosgrey50 .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 130px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .midgreys .asosgrey50 .asosgrey501 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 96px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 22.0px;
+}
+.colouruipalette .midgreys .asosgrey50 .a999999 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .midgreys .asosgrey50 .rgb153153153 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 178px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .midgreys .asosgrey50 .line1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 169px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .midgreys .asosgrey50 .linecopy6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 207px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .midgreys .asosgrey50 .colour1 {
+  background-color    : rgba(153, 153, 153, 1.0);
+  top                 : 0px;
+  height              : 84px;
+  width               : 248px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .midgreys .asosgrey50 .usedforsecondaryt {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 220px;
+  height              : auto;
+  width               : 246px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(119, 119, 119, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 20.0px;
+}
+.colouruipalette .midgreys .asosgrey70 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 262px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 272px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .midgreys .asosgrey70 .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 130px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .midgreys .asosgrey70 .asosgrey701 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 96px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 22.0px;
+}
+.colouruipalette .midgreys .asosgrey70 .a767676 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .midgreys .asosgrey70 .rgb118118118 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 178px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .midgreys .asosgrey70 .line1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 169px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .midgreys .asosgrey70 .linecopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 208px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .midgreys .asosgrey70 .colour1 {
+  background-color    : rgba(118, 118, 118, 1.0);
+  top                 : 0px;
+  height              : 84px;
+  width               : 248px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .midgreys .asosgrey70 .usedforsecondaryt {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 221px;
+  height              : auto;
+  width               : 246px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(119, 119, 119, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 20.0px;
+}
+.colouruipalette .midgreys .asosgrey90 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 262px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .midgreys .asosgrey90 .usedforsecondaryt {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 221px;
+  height              : auto;
+  width               : 246px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(119, 119, 119, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 20.0px;
+}
+.colouruipalette .midgreys .asosgrey90 .linecopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 208px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .midgreys .asosgrey90 .rgb102102102 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 178px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .midgreys .asosgrey90 .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 169px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .midgreys .asosgrey90 .a666666 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .midgreys .asosgrey90 .line1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 130px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .midgreys .asosgrey90 .asosgrey901 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 96px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 22.0px;
+}
+.colouruipalette .midgreys .asosgrey90 .colour1 {
+  background-color    : rgba(102, 102, 102, 1.0);
+  top                 : 0px;
+  height              : 84px;
+  width               : 248px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .midgreys .updatedbadge {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 262px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .midgreys .updatedbadge .rectangle5 {
+  background-color    : rgba(7, 112, 207, 1.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 12px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .midgreys .updatedbadge .updated {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : auto;
+  width               : 59px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 1.0px;
+  line-height         : 16.0px;
+}
+.colouruipalette .midgreys .updatedbadgecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 134px;
+  position            : absolute;
+  margin              : 0;
+  left                : 544px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .midgreys .updatedbadgecopy .rectangle5 {
+  background-color    : rgba(7, 112, 207, 1.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 134px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 21px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .midgreys .updatedbadgecopy .retiredu2013pleaseuse {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : auto;
+  width               : 122px;
+  position            : absolute;
+  margin              : 0;
+  left                : 6px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 1.0px;
+  line-height         : 16.0px;
+}
+.colouruipalette .blackdarkgreys {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 348px;
+  height              : 283px;
+  width               : 793px;
+  position            : absolute;
+  margin              : 0;
+  left                : 132px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .blackdarkgreys .asosfullblack {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 242px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 544px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .blackdarkgreys .asosfullblack .linecopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 208px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .blackdarkgreys .asosfullblack .rgb000 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 178px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .blackdarkgreys .asosfullblack .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 169px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .blackdarkgreys .asosfullblack .a000000 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .blackdarkgreys .asosfullblack .line1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 130px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .blackdarkgreys .asosfullblack .asosfullblack1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 96px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 22.0px;
+}
+.colouruipalette .blackdarkgreys .asosfullblack .colour1 {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 0px;
+  height              : 84px;
+  width               : 248px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .blackdarkgreys .asosfullblack .usedforprimarybut {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 221px;
+  height              : auto;
+  width               : 246px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(119, 119, 119, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 20.0px;
+}
+.colouruipalette .blackdarkgreys .asosgrey00 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 283px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 272px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .blackdarkgreys .asosgrey00 .usedasabackground {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 221px;
+  height              : auto;
+  width               : 246px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(119, 119, 119, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 20.0px;
+}
+.colouruipalette .blackdarkgreys .asosgrey00 .linecopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 208px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .blackdarkgreys .asosgrey00 .rgb828080 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 178px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .blackdarkgreys .asosgrey00 .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 169px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .blackdarkgreys .asosgrey00 .a525050 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .blackdarkgreys .asosgrey00 .line1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 130px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .blackdarkgreys .asosgrey00 .asosgrey001 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 96px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 22.0px;
+}
+.colouruipalette .blackdarkgreys .asosgrey00 .colour1 {
+  background-color    : rgba(82, 80, 80, 1.0);
+  top                 : 0px;
+  height              : 84px;
+  width               : 248px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .blackdarkgreys .asosblack {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 262px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .blackdarkgreys .asosblack .usedforheadingsc {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 221px;
+  height              : auto;
+  width               : 246px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(119, 119, 119, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 20.0px;
+}
+.colouruipalette .blackdarkgreys .asosblack .linecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 208px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .blackdarkgreys .asosblack .rgb454545 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 178px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .blackdarkgreys .asosblack .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 169px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .blackdarkgreys .asosblack .a2d2d2d {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.4px;
+  line-height         : 22.0px;
+}
+.colouruipalette .blackdarkgreys .asosblack .line1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 130px;
+  height              : 1px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .blackdarkgreys .asosblack .asosblack1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 96px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 22.0px;
+}
+.colouruipalette .blackdarkgreys .asosblack .colour1 {
+  background-color    : rgba(45, 45, 45, 1.0);
+  top                 : 0px;
+  height              : 84px;
+  width               : 248px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.colouruipalette .thefollowingswatch {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 260px;
+  height              : auto;
+  width               : 601px;
+  position            : absolute;
+  margin              : 0;
+  left                : 132px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTBook-Reg", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.6px;
+  line-height         : 24.0px;
+}
+.colouruipalette .uicolourpalette {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 208px;
+  height              : auto;
+  width               : 588px;
+  position            : absolute;
+  margin              : 0;
+  left                : 132px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.5px;
+  line-height         : 44.0px;
+}
+.colouruipalette .colour {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 80px;
+  height              : auto;
+  width               : 588px;
+  position            : absolute;
+  margin              : 0;
+  left                : 132px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "FuturaPTHeavy-Reg", Helvetica, Arial, serif;
+  font-size           : 60.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.5px;
+  line-height         : 72.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
